@@ -15,5 +15,8 @@
     "react": "^0.14.8",
     "react-native": "^0.22.2",
     "react-native-sound": "^0.8.0"
+  },
+  "devDependencies": {
+    "eslint-config-react-native": "^1.6.0"
   }
 }
